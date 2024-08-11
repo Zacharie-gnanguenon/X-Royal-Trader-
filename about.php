@@ -9,4 +9,5 @@ Le service, vous guide dans les différents activités économiques, et en même
 Gagnez quotidiennement des récompenses avec des sondages ! Soyez récompensé pour chaque tâche effectuée. Vos gains dépendra de votre réponse, et le mieux, vous avez la possibilité d'accueillir vos récompenses comme vous le souhaitez ! 
 
 X-Royal Trader prétend cordialement facilité les trajet du secteur économique rattaché au transport. Le service travail de façon optionnelle pour être les meilleur service pour monde entier, du coup, il fonctionne dans le but de gagner  la confiance de ses membres !
+<a href=	"about.php">About</a>
 
